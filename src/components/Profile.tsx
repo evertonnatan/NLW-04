@@ -6,7 +6,9 @@ export function Profile() {
             <img src="https://github.com/evertonnatan.png" alt="Avatar de Everton"/>
         <div>
             <strong>Everton Natan</strong>
-            <p>Level 1</p>
+            <p>
+                <img src="icons/level.svg" alt="ícone do level"/>
+                Level 1</p>
         </div>
         </div>
     )
